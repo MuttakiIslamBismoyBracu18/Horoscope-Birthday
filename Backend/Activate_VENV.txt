@@ -2,3 +2,14 @@
 cd backend
 py main.py
 
+
+
+npm cache clean --force
+npm install -g @vue/cli
+npm install
+npm install -g yarn
+yarn install
+yarn serve
+
+
+
