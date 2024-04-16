@@ -1,5 +1,4 @@
 <!-- eslint-disable prettier/prettier -->
-<!-- eslint-disable prettier/prettier -->
 <template>
   <div id="app">
     <header>
